@@ -1,0 +1,360 @@
+.rectanguloA {
+  width: 30%;
+  height: 250%;
+  background: linear-gradient(#ccd6ec, #2e4b8a, #091b42);
+  position: absolute;
+  left: 0%;
+  top: 5%;
+}
+
+img {
+  height: 200px;
+  width: 200px;
+  position: relative;
+  top: 5px;
+  left: 15%;
+}
+
+.habilidades {
+  color: #ffffff;
+  font-family: lemon milk;
+}
+
+.barra1,
+.barra2,
+.barra3,
+.barra4,
+.barra5,
+.barra6,
+.barra7,
+.barra8,
+.barra9,
+.barra10 {
+  width: 300px;
+  height: 20px;
+  background-color: #0f1e3f;
+  text-align: center;
+}
+
+.porcentaje {
+  height: 100%;
+  background: #d9e4e9;
+  font-family: lemon milk;
+  color: #12135a;
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+
+
+.descripcion {
+  font-family: lemon milk;
+  color: #ffffff;
+  position: absolute;
+  left: 15%;
+}
+
+h3 {
+  font-family: futura;
+  color: #ffffff;
+  position: relative;
+  left: 35%;
+}
+
+.mail {
+  width: 100px;
+  height: 30px;
+  background-color: #ffffff;
+  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.mail img {
+  max-width: 40px;
+  max-height: 35px;
+}
+
+.mail p {
+  font-size: 15px;
+  color: #ffffff;
+  position: absolute;
+  left: 110px;
+  font-family: lemon milk;
+}
+
+.telefono {
+  width: 100px;
+  height: 30px;
+  background-color: #ffffff;
+  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.telefono img {
+  max-width: 22px;
+  max-height: 22px;
+}
+
+.telefono p {
+  font-size: 15px;
+  color: #ffffff;
+  position: absolute;
+  left: 110px;
+  font-family: lemon milk;
+}
+
+.ubicacion {
+  width: 100px;
+  height: 30px;
+  background-color: #ffffff;
+  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.ubicacion img {
+  max-width: 22px;
+  max-height: 22px;
+}
+
+.ubicacion p {
+  font-size: 15px;
+  color: #ffffff;
+  position: absolute;
+  left: 110px;
+  font-family: lemon milk;
+}
+
+.linkedin {
+  width: 100px;
+  height: 30px;
+  background-color: #ffffff;
+  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.linkedin img {
+  max-width: 22px;
+  max-height: 22px;
+
+}
+
+.linkedin a {
+  font-size: 15px;
+  color: #ffffff;
+  position: absolute;
+  left: 110px;
+  font-family: lemon milk;
+}
+
+.github {
+  width: 100px;
+  height: 30px;
+  background-color: #ffffff;
+  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.github img {
+  max-width: 22px;
+  max-height: 22px;
+}
+
+.github a {
+  font-size: 15px;
+  color: #ffffff;
+  position: absolute;
+  left: 110px;
+  font-family: lemon milk;
+}
+
+h1 {
+  font-family: futura;
+  color: #37383a;
+  position: absolute;
+  left: 33%;
+  top: 20%
+}
+
+h2,
+h3,
+{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p {
+  font-family: lemon milk;
+  color: #37383a;
+  font-size: 40px;
+  position: absolute;
+  left: 33%;
+}
+
+p1,
+p2,
+p3 {
+  position: absolute;
+  font-size: 20px;
+  font-family: arial narrow;
+  color: #3a3b3b;
+  text-align: justify;
+}
+
+p1 {
+  left: 33%;
+  top: 30%;
+}
+
+p2 {
+  left: 33%;
+  top: 55%;
+}
+
+p3 {
+  left: 0;
+  top: 175%;
+}
+
+.rectangulo2,
+.rectangulo2,
+.rectangulo3,
+.rectangulo4,
+.rectangulo5,
+.rectangulo6 {
+  background-color: #151535;
+  border-radius: 5px;
+  width: 300px;
+  height: 50px;
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: futura;
+  color: #ffffff;
+}
+
+.rectangulo2 {
+  top: 45%;
+  left: 33%;
+
+}
+
+.rectangulo3 {
+  top: 70%;
+  left: 33%;
+}
+
+.Teducacion {
+  position: absolute;
+  top: 80%;
+  left: 33%;
+}
+
+.Teducacion td,
+.Texperiencia td {
+  font-family: arial narrow;
+  font-size: 18px;
+  color: #3a3b3b;
+}
+
+.Teducacion table {
+  border-spacing: 20px 1px;
+}
+
+.rectangulo4 {
+  top: 110%;
+  left: 33%;
+}
+
+.Texperiencia {
+  position: absolute;
+  top: 120%;
+  left: 33%;
+}
+
+.Texperiencia table {
+  border-spacing: 20px 3px;
+}
+
+.rectangulo5 {
+  top: 125%;
+  left: 0%;
+}
+
+.referencia p {
+  position: absolute;
+  top: 135%;
+  font-family: arial narrow;
+}
+
+.rectangulo6 {
+  top: 360%;
+  left: 0%;
+}
+
+.referencia p {
+  position: absolute;
+  top: 375%;
+  font-family: arial narrow;
+}
+
+ul {
+  font-family: arial narrow;
+  color: #ffffff;
+}
+
+.links {
+  color: #ffffff;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+button {
+  font-family: arial narrow;
+  background-color: rgb(250, 250, 250);
+  border-radius: 3px;
+}
+
+textarea {
+  background-color: rgb(216, 211, 211);
+  border-radius: 10px;
+  font-family: arial narrow;
+}
+
+.contenedor {
+  display: grid;
+  grid-template-columns: repeat(4, 2fr);
+  grid-gap: 10px;
+  position: absolute;
+  top: 375%;
+}
+
+.grid-item {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.grid-item img {
+  max-width: 30%;
+  max-height: 30%;
+}
+
+.grid-item h2 {
+  font-family: lemon milk;
+  font-size: 18px;
+  align-items: center;
+  align-content: center;
+  color: #3a3b3b;
+}
